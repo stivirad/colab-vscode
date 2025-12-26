@@ -1,0 +1,5 @@
+OS: Windows
+OS_version: 10.0.26200
+CPU_cores: 8
+RAM_GB: 6.31
+RUN_ENV: LOCAL
